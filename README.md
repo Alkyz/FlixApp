@@ -9,7 +9,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -34,7 +33,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 <img src="https://im4.ezgif.com/tmp/ezgif-4-201c5fd8b2.gif" width=150><br>
-
 https://im4.ezgif.com/tmp/ezgif-4-201c5fd8b2.gif
 
 ### Notes
